@@ -20,6 +20,6 @@
 	* Вход: координаты спутников и расстояния до них.
 	* Выход: x и y приемника
 
-![](https://gitlab.com/xitowzys-isu-laboratory-work/fourth-semester/algorithms-and-data-structures/gps/-/raw/master/raw/1.jpg?inline=false)
-![](https://gitlab.com/xitowzys-isu-laboratory-work/fourth-semester/algorithms-and-data-structures/gps/-/raw/master/raw/2.jpg?inline=false)
-![](https://gitlab.com/xitowzys-isu-laboratory-work/fourth-semester/algorithms-and-data-structures/gps/-/raw/master/raw/CA.png?inline=false)
+![](https://github.com/xitowzys/GPS-receiver/raw/master/raw/1.jpg)
+![](https://github.com/xitowzys/GPS-receiver/raw/master/raw/2.jpg)
+![](https://github.com/xitowzys/GPS-receiver/raw/master/raw/CA.png)
